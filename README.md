@@ -8,4 +8,3 @@ Book booking app template developed in Flutter.
   <img src="https://github.com/flaviopopoff/hotelp/blob/main/doc/booked.png" alt="Booked" width="70%">
 </div>
 <br />
-
